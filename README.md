@@ -55,11 +55,13 @@ make run
 e acesse: http://127.0.0.1:8000/docs
 
 # Desafio Final
-    - adicionar query parameters nos endpoints
+⚠️ Ainda não implementado 
+
+    - Adicionar query parameters nos endpoints
         - atleta
             - nome
             - cpf
-    - customizar response de retorno de endpoints
+    - Customizar response de retorno de endpoints
         - get all
             - atleta
                 - nome
